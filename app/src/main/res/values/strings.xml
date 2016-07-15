@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Since</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addEvent">Add Event</string>
+    <string name="eventName">Write name of Event:</string>
+    <string name="eventTime">Time</string>
+    <string name="eventDate">Date</string>
+    <string name="since">Since left</string>
+    <string name="event">"Event : "</string>
+</resources>
